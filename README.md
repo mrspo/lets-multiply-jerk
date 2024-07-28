@@ -1,7 +1,8 @@
 # Let's Multiply, Jerk
+I created this to help one of my kids with their multiplication tables when all other methods were unsuccessful. I added some fun with insulting when quitting, praising when you answer correctly, and overall general snarkiness and *gasp!* curse words. List of insults and compliments were borrowed from the internet somewhere.
 
 ### How to use:
-1. Open Powershell and run:
+1. Open Powershell, navigate to the location of the script, and run:
 ```
 .\LetsMultiply.ps1
 ```
